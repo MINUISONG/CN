@@ -1,1 +1,1 @@
-이것은 컴퓨터 네트워크 및 실습에 관한 내용입니다..
+This repository contains codes and implementations from my study of computer networks. It includes key concepts, protocols, and practical examples to deepen my understanding of network communication and its applications.
